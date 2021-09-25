@@ -29,4 +29,8 @@ StockSummary.VBS - Uses For Loops to move through all of the stocks in the data 
 ### and DQ has the lower return during the whole year
 ### SPWR has the higher voulumes during the whole year 
 # CONCLUSION
-EVEN DQ has best return 2017 still is not good optin to invest on it since has the lower retun in 2018
+## EVEN DQ has best return 2017 still is not good optin to invest on it since has the lower retun in 2018
+## DQ very risky stock to invest the whole money
+## ENPH and RUN the only 2 stocks has postive return during 2017 and 2018
+
+
