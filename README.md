@@ -12,3 +12,4 @@ Make the appropriate adjustments to your VBA script that will allow it to run on
 StockSummary.VBS - Uses For Loops to move through all of the stocks in the data set, tracks the changes and prints out the totals on a Summary Table. A For Loop is also included that enables script to run through every sheet in the workbook.
 2017 Stock Summary.PNG - 2014 stocks worksheet after the script is run. Shows conditional formatting and summary cells
 2018 Stock Summary.PNG - 2015 stocks worksheet after the script is run. Shows conditional formatting and summary cells
+# result 
