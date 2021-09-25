@@ -13,3 +13,4 @@ StockSummary.VBS - Uses For Loops to move through all of the stocks in the data 
 2017 Stock Summary.PNG - 2014 stocks worksheet after the script is run. Shows conditional formatting and summary cells
 2018 Stock Summary.PNG - 2015 stocks worksheet after the script is run. Shows conditional formatting and summary cells
 # result 
+![2017 analysis](https://user-images.githubusercontent.com/90945875/134785803-aadb123b-b915-4221-919f-dd913fb59921.png)
