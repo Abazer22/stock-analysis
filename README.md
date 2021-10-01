@@ -29,6 +29,6 @@ StockSummary.VBS - Uses For Loops to move through all of the stocks in the data 
 # CONCLUSION
 ## DQ very risky stock to invest the whole money
 ## ENPH and RUN the only 2 stocks has postive return during 2017 and 2018
-# the code
+
 
 
